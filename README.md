@@ -1,2 +1,2 @@
 # meisyal.web.id
-Description of this repository will be provided soon as well as the project is being started.
+Source code for my blog (partial) at http://meisyal-blog.herokuapp.com.
