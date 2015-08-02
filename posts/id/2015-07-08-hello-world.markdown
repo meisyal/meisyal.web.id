@@ -1,42 +1,19 @@
 ---
 layout: post
 title:  "Hello World!"
-date:   2015-07-08 21:51:40
+date:   2015-07-08 21:52:40
 author: "meisyal"
 categories: general
 ---
-Saya mengawali tulisan pertama di *blog* ini dengan judul "Hello World!". Iya,
-"Hello World!". Kalimat sederhana terdiri dari dua kata, "hello" dan "world",
-dan diakhiri oleh tanda perintah "!".
 
-Saya terjemahkan dua kata dan tanda perintah tersebut ke dalam bahasa [Ruby][Ruby].
-Potongan kode program ditampilkan sebagai berikut:
+Hello World, selamat datang di *Focused Samurai's blog*.
 
-{% highlight ruby %}
-# Kelas PengucapSalam
-class PengucapSalam
-  def inisialisasi(kata)
-    @kata = kata
-  end
+Saya mengawali tulisan pertama di *blog* ini dengan judul "Hello World!". Iya, "Hello World!". Kalimat sederhana terdiri dari dua kata, "hello" dan "world", dan diakhiri oleh tanda perintah "!".
+Sebagai perkenalan awal, *blog* ini didedikasikan untuk membahas seputar dunia *programming*, teknologi, dan hal menarik lainnya terkait dengan perangkat lunak.
+Anda dapat mengetahui informasi lebih lanjut tentang *blog* ini pada halaman [About][about].
 
-  def ucapkan
-    puts "Hello #{kata}!"
-  end
-end
-
-# Buat sebuah objek baru
-p = PengucapSalam.new("World")
-
-# Ucapkan salam
-p.ucapkan
-{% endhighlight %}
-
-Maaf, saya harus mengakhiri tulisan pertama saya sampai di sini (isi akan diperbaiki).
-Saya hanya berharap salam "Hello World!" di atas tersampaikan kepada pembaca walaupun
-isi tulisan ini belum tersampaikan seutuhnya. Terakhir, informasi lebih lanjut
-terkait *Focused Samurai's blog* bisa dipelajari di [sini][about].
+Saya akhiri tulisan pertama saya sampai di sini dan saya harap Anda bisa menikmati *blog* ini. Jika ada pertanyaan, saran, dan kritik, jangan ragu untuk menyampaikan melalui *e-mail* saya.
 
 Terima kasih.
 
-[Ruby]: https://www.ruby-lang.org/
 [about]: http://meisyal.web.id/about/
