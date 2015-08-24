@@ -18,7 +18,7 @@ berbagai jenis konten bertebaran, misalnya. Kita harus mampu membedakan mana yan
 
 Tidak lupa, saya menaruh logo "Indonesia Merdeka" di bawah ini,
 
-![Indonesia Merdeka](/images/posts/Bernalar, Mencerahkan Republik.jpg "Bernalar, Mencerahkan Republik")
+![Indonesia Merdeka](http://static.meisyal.web.id/images/posts/Bernalar, Mencerahkan Republik.jpg "Bernalar, Mencerahkan Republik")
 
 "Bernalar, Mencerahkan Republik" by [Kementerian Pendidikan dan Kebudayaan Republik Indonesia][kemendikbud]
 
