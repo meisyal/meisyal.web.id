@@ -13,7 +13,7 @@ Dalam memperingati **Hari Kemerdekaan Republik Indonesia ke-70**, kita seharusny
 >  **mer·de·ka** /merdéka/ a **1** bebas (dr perhambaan, penjajahan, dsb); berdiri sendiri: sejak proklamasi tanggal 17 Agustus 1945 itu, bangsa kita sudah --; **2** tidak terkena atau lepas dr tuntutan: -- dr tuntutan penjara seumur hidup; **3** tidak terikat, tidak bergantung kpd orang atau pihak tertentu; leluasa: majalah mingguan --; boleh berbuat dng --;
 -- ayam ki bebas merdeka (dapat berbuat sekehendak hatinya);
 
-Walaupun saat ini, kita "bebas" secara fisik namun menurut saya kita masih belum "bebas", dalam artian pemikiran masih dijajah, cara berpikir (akal) yang belum benar. Saya tidak akan membahas hal ini lebih lanjut. Realitas sangat jelas, kejadian/masalah ada di sekeliling kita. Media sangat mudah dijangkau melalui sosial media dan internet,
+Walaupun saat ini, kita "bebas" secara fisik namun menurut saya kita masih belum "bebas", dalam artian pemikiran masih dijajah, cara berpikir (akal) yang belum benar. Saya tidak akan membahas hal ini lebih lanjut. Realitas sangat jelas, kejadian/masalah ada di sekeliling kita. Media sangat mudah dijangkau melalui media sosial dan internet,
 berbagai jenis konten bertebaran, misalnya. Kita harus mampu membedakan mana yang benar dan salah (ada pendasaran yang ilmiah). Bagi anak muda saat ini jangan "gampang" membawa perasaan. Saya bukan bermaksud men-*judge* kalian, hal ini juga menjadi bahan evaluasi saya sendiri. Tetap bersabar dan teruslah berkarya!
 
 Tidak lupa, saya menaruh logo "Indonesia Merdeka" di bawah ini,
