@@ -315,6 +315,14 @@ pre {
       .post-content h4 {
         font-size: 18px; } }
 
+/*
+ * Image property in post content
+ */
+.center-image {
+  margin: 0 auto;
+  display: block;
+}
+
 /**
  * Syntax highlighting styles
  */
