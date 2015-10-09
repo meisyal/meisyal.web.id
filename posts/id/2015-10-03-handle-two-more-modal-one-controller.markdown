@@ -40,7 +40,7 @@ selesai. Jendela ini biasanya digunakan untuk menanyakan sebuah pilihan atau
 mengubah data yang dipilih[^2]. Gambar bergerak di bawah ini menggambarkan
 sebuah *modal*.
 
-![Ionic Modal Example](http://static.meisyal.web.id/images/posts/ionic-modal-example.gif)
+![Ionic Modal Example](http://static.meisyal.web.id/images/posts/ionic-modal-example.gif){: .center-image }
 
 CC BY-NC-SA 4.0 "Editing Customer Data in [MIM project][MIM]" by meisyal
 
