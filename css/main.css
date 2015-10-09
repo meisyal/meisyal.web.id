@@ -86,6 +86,12 @@ blockquote {
     margin-bottom: 0; }
 
 /**
+ * Set text in `strong` tag to be bold
+ */
+strong {
+  font-weight: bold; }
+
+/**
  * Code formatting
  */
 pre,
@@ -308,6 +314,14 @@ pre {
     @media screen and (max-width: 800px) {
       .post-content h4 {
         font-size: 18px; } }
+
+/*
+ * Image property in post content
+ */
+.center-image {
+  margin: 0 auto;
+  display: block;
+}
 
 /**
  * Syntax highlighting styles
