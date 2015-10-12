@@ -12,7 +12,12 @@ Focused Samurai's [logo][logo] was created by [meisyal][meisyal]. Logo and the n
 
 This work (blog logo and content) is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cclicense] or any later version. All other contents are redistributed under their original license terms. See caption where content is displayed!
 
+All the source code in the `base/`, `css/`, and `layouts/` directories is released under the terms of the [MIT License][mitlicense].
+
+Copyright (C) 2015 Andrias Meisyal
+
 [logo]: https://github.com/meisyal/meisyal.web.id/blob/master/images/focused-samurai.png
 [meisyal]: https://github.com/meisyal
 [kiairesonance]: http://www.kiairesonance.com/
 [cclicense]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[mitlicense]: http://opensource.org/licenses/MIT
