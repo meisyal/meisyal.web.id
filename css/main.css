@@ -320,15 +320,18 @@ pre {
  */
 .center-image {
   margin: 0 auto;
-  display: block;
-}
+  display: block; }
+
+.caption {
+  font-size: 14px;
+  color: #424242;
+  text-align: center; }
 
 /*
  * Footnotes
  */
 .footnotes {
-  font-size: 14px;
-}
+  font-size: 14px; }
 
 /**
  * Syntax highlighting styles
