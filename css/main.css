@@ -331,7 +331,9 @@ pre {
  * Footnotes
  */
 .footnotes {
-  font-size: 14px; }
+  border-top: 1px solid #d2d4de;
+  font-size: 14px;
+  padding-top: 15px; }
 
 /**
  * Syntax highlighting styles
