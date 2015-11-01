@@ -77,7 +77,8 @@ a {
  */
 blockquote {
   color: #828282;
-  border-left: 4px solid #e8e8e8;
+  background-color: #ececec;
+  border-left: 4px solid #bebebe;
   padding-left: 15px;
   font-size: 18px;
   letter-spacing: -1px;
@@ -97,9 +98,9 @@ strong {
 pre,
 code {
   font-size: 15px;
-  border: 1px solid #e8e8e8;
+  border: 1px solid #f0f0f0;
   border-radius: 3px;
-  background-color: #eef; }
+  background-color: #dde3ed; }
 
 code {
   padding: 1px 5px; }
