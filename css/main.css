@@ -16,7 +16,7 @@ body {
   line-height: 1.5;
   font-weight: 300;
   color: #111;
-  background-color: #fdfdfd;
+  background-color: #eff0f4;
   -webkit-text-size-adjust: 100%; }
 
 /**
@@ -77,7 +77,8 @@ a {
  */
 blockquote {
   color: #828282;
-  border-left: 4px solid #e8e8e8;
+  background-color: #ececec;
+  border-left: 4px solid #bebebe;
   padding-left: 15px;
   font-size: 18px;
   letter-spacing: -1px;
@@ -97,9 +98,9 @@ strong {
 pre,
 code {
   font-size: 15px;
-  border: 1px solid #e8e8e8;
+  border: 1px solid #f0f0f0;
   border-radius: 3px;
-  background-color: #eef; }
+  background-color: #dde3ed; }
 
 code {
   padding: 1px 5px; }
@@ -153,8 +154,8 @@ pre {
  */
 .site-header {
   border-top: 5px solid #424242;
-  border-bottom: 1px solid #e8e8e8;
   min-height: 56px;
+  background-color: #333333;
   position: relative; }
 
 .site-title {
@@ -164,7 +165,10 @@ pre {
   margin-bottom: 0;
   float: left; }
   .site-title, .site-title:visited {
-    color: #424242; }
+    color: #ececec; }
+  .site-title:hover {
+    color: #fff;
+    text-decoration: none; }
 
 .site-nav {
   float: right;
@@ -172,16 +176,19 @@ pre {
   .site-nav .menu-icon {
     display: none; }
   .site-nav .page-link {
-    color: #111;
+    color: #ececec;
     line-height: 1.5; }
     .site-nav .page-link:not(:first-child) {
       margin-left: 20px; }
+    .site-nav .page-link:hover {
+      color: #8a8a8a;
+      text-decoration: none; }
   @media screen and (max-width: 600px) {
     .site-nav {
       position: absolute;
       top: 9px;
       right: 30px;
-      background-color: #fdfdfd;
+      background-color: #eff0f4;
       border: 1px solid #e8e8e8;
       border-radius: 5px;
       text-align: right; }
@@ -212,7 +219,8 @@ pre {
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid #e8e8e8;
+  background-color: #ececec;
+  border-top: 2px solid #e8e8e8;
   padding: 30px 0; }
 
 .footer-heading {
@@ -277,7 +285,7 @@ pre {
 
 .post-meta {
   font-size: 14px;
-  color: #828282; }
+  color: #727578; }
 
 .post-link {
   display: block;
@@ -320,8 +328,20 @@ pre {
  */
 .center-image {
   margin: 0 auto;
-  display: block;
-}
+  display: block; }
+
+.caption {
+  font-size: 14px;
+  color: #424242;
+  text-align: center; }
+
+/*
+ * Footnotes
+ */
+.footnotes {
+  border-top: 1px solid #d2d4de;
+  font-size: 14px;
+  padding-top: 15px; }
 
 /**
  * Syntax highlighting styles
