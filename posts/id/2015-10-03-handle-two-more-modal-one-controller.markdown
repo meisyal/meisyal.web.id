@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to Handle Two or more Ionic Modal in One Controller"
+title:  "How to Handle Two or more Ionic Modals in One Controller"
 date:   2015-10-03 21:03:15
 author: "meisyal"
 categories: ionic

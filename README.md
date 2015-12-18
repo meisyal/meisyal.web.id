@@ -22,7 +22,7 @@ license terms. See caption where content is displayed!
 All the source code in the `base/`, `css/`, and `layouts/` directories
 is released under the terms of the [MIT License][mitlicense].
 
-Copyright (C) 2015 Andrias Meisyal.
+Copyright © 2015 Andrias Meisyal.
 
 [logo]: https://github.com/meisyal/meisyal.web.id/blob/master/images/focused-samurai.png
 [meisyal]: https://github.com/meisyal
