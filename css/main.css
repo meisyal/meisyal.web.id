@@ -177,11 +177,16 @@ pre {
     display: none; }
   .site-nav .page-link {
     color: #ececec;
-    line-height: 1.5; }
+    line-height: 1.5;
+    margin: -3px -6px;
+    padding: 3px 6px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px; }
     .site-nav .page-link:not(:first-child) {
       margin-left: 20px; }
     .site-nav .page-link:hover {
-      color: #8a8a8a;
+      background-color: #5c5c5c;
       text-decoration: none; }
   @media screen and (max-width: 600px) {
     .site-nav {
