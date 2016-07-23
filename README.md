@@ -1,13 +1,10 @@
 # Focused Samurai's blog
-This is the source code to my blog (partial), which can be found at
-https://meisyal.web.id.
-
-*partial means some contents aren't shown here*.
+This is the source code to my blog, which can be found at https://meisyal.web.id.
 
 ## Logo
 Focused Samurai's [logo][logo] was created by [meisyal][meisyal]. It is inspired
 from a game, [Kiai Resonance][kiairesonance]. This logo also appears as my default
-profile picture on my accounts, like Github, Twitter, and other account.
+profile picture on my accounts, like Github and Twitter.
 
 ## License
 This work (all blog content) is licensed under a
